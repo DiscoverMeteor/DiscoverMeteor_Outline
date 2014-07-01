@@ -1,1 +1,1 @@
-This is an outline of [Discover Meteor](http://discovermeteor.com).
+This is a hindi translation of [Discover Meteor](http://discovermeteor.com).
